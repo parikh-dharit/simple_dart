@@ -1,0 +1,6 @@
+name: simple_app
+version: 0.0.1
+description: a very simple dart application (Derek Banas video)
+author: Dharit Parikh
+environment:
+    sdk: any
